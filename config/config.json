@@ -1,0 +1,6 @@
+{
+    "input_file": "data/input/students.csv",
+    "output_file": "data/output/processed_students.csv",
+    "minimum_mark": 0,
+    "maximum_mark": 100
+}
